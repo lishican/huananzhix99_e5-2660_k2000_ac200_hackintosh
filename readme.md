@@ -17,7 +17,7 @@
 
 ### 截图
 
-![image-20211012210323489](/Users/ken/Library/Application%20Support/typora-user-images/image-20211012210325060.png)
+![image-20211012210323489](http://ken-markdown.oss-cn-beijing.aliyuncs.com/61d10ae2-1f57-49a7-82c9-d50b34b769b4.png)
 
 ![image-20211012210506235](http://ken-markdown.oss-cn-beijing.aliyuncs.com/4f173cb0-4040-40e4-a8b6-eed5dfae311b.png)
 
